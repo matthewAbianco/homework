@@ -7,7 +7,7 @@ user friendly for people who want to see and edit the code.
 
 ## Resources used
 
-.Youtube
+1.Youtube
 .Visual Studio Code
 .Codecademy
 .Gitlab
