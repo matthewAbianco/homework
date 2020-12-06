@@ -8,10 +8,10 @@ user friendly for people who want to see and edit the code.
 ## Resources used
 
 1.Youtube
-.Visual Studio Code
-.Codecademy
-.Gitlab
-.Github
+2.Visual Studio Code
+3.Codecademy
+4.Gitlab
+5.Github
 
 ---
 
