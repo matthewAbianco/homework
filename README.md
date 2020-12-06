@@ -5,7 +5,7 @@ user friendly for people who want to see and edit the code.
 
 ---
 
-## Resources used
+##Resources used
 
 *Youtube
 *Visual Studio Code
@@ -15,8 +15,6 @@ user friendly for people who want to see and edit the code.
 
 ---
 
-###
-
-Contact Info
+###Contact Info
 
 matthewbianco@protonmail.com
