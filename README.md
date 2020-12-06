@@ -1,7 +1,7 @@
 # HTML CSS Git Code Refactor Homework Week 1
 
 This is my first homework assignment that involved restructruing a CSS document to make it more 
-user friendly for people who want to see and edit the code.
+user friendly for people who want to view and edit the code.
 
 ---
 
